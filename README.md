@@ -1,2 +1,3 @@
 # Internship-Analog-circuit-design-
-Analog circuit design and LTspice simulations from my Octawave Tech internship, covering filters and MOSFET-based amplifiers.
+This repository contains analog circuit design and analysis work completed during my internship, focused on both passive filters and MOSFET amplifier stages.
+
