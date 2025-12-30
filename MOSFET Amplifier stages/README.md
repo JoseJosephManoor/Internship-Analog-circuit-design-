@@ -13,43 +13,34 @@ MOSFET amplifiers are widely used because of their high input impedance, low pow
 **Folder:** [`CS amplifier with Resistive load`](./CS_amplifier_with_Resistive_load)
 
 
+---
+### 2. Common-Source Amplifier with Diode-Connected Load
+**Folder:** [`CS amplifier with Diode-Connected Load`](./CS_amplifier_with_Diode_Connected_Load)
 
 ---
 
-### 2. Common-Source with Diode-Connected Load
-**Folder:** [`common_source_diode_load`](./common_source_diode_load)
-
-
----
-
-### 3. Common-Source with Current-Source (Active) Load
-**Folder:** [`common_source_active_load`](./common_source_active_load)
-
+### 3. Common-Source Amplifier with Current-Source (Active) Load
+**Folder:** [`CS amplifier with Current-Source Load`](./CS_amplifier_with_Current_Source_Load)
 
 ---
 
-### 4. Common-Source with Triode-Region Load (Voltage-Controlled Resistor)
-**Folder:** [`common_source_triode_load`](./common_source_triode_load)
-
-
----
-
-### 5. Common-Source with Source Degeneration
-**Folder:** [`common_source_source_degeneration`](./common_source_source_degeneration)
+### 4. Common-Source Amplifier with Triode-Region Load (Voltage-Controlled Resistor)
+**Folder:** [`CS amplifier with Triode-Region Load`](./CS_amplifier_with_Triode_Region_Load)
 
 ---
 
-### 6. Source Follower (Common-Drain)
-**Folder:** [`source_follower`](./source_follower)
+### 5. Common-Source Amplifier with Source Degeneration
+**Folder:** [`CS amplifier with Source Degeneration`](./CS_amplifier_with_Source_Degeneration)
 
+---
 
+### 6. Source Follower (Common-Drain) Amplifier
+**Folder:** [`Source Follower (Common-Drain)`](./Source_Follower_Common_Drain)
 
 ---
 
 ### 7. Common-Gate Amplifier
-**Folder:** [`common_gate`](./common_gate)
+**Folder:** [`Common-Gate Amplifier`](./Common_Gate_Amplifier)
 
-
----
 
 
