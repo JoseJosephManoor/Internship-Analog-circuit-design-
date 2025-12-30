@@ -10,7 +10,7 @@ MOSFET amplifiers are widely used because of their high input impedance, low pow
 ## 📁 Amplifier Topologies
 
 ### 1. Common-Source Amplifier with Resistive Load
-**Folder:** [`common_source_resistive_load`](./CS amplifier with Resistive load)
+**Folder:** [`CS amplifier with Resistive load`](./CS amplifier with Resistive load)
 
 A basic voltage amplifier using a drain resistor as the load. It provides moderate gain with 180° phase inversion.
 
