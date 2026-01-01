@@ -2,7 +2,7 @@
 
 A voltage buffer implemented using an NMOS transistor with the output taken from the source terminal. The source follower provides high input impedance, low output impedance, and a voltage gain slightly less than unity with no phase inversion. It is commonly used for impedance matching and buffering between circuit stages.
 
-- **Gain:** \( A_v \approx \dfrac{g_m R_L}{1 + g_m R_L} \)  
+- **Gain:** gm*Rs/(1 + gm*Rs)  
 - High input impedance and low output impedance  
 - No phase inversion (0° phase shift)  
 - Voltage gain slightly less than 1  
