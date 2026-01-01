@@ -1,12 +1,14 @@
-## NMOS Common-Source Amplifier with Source Degeneration
+## Source Follower (Common-Drain) Amplifier
 
-A voltage amplifier implemented using a drain resistor and a source degeneration resistor. The source degeneration introduces local negative feedback, resulting in moderate gain with 180° phase inversion, improved linearity, and reduced sensitivity to device parameter variations.
+A voltage buffer implemented using an NMOS transistor with the output taken from the source terminal. The source follower provides high input impedance, low output impedance, and a voltage gain slightly less than unity with no phase inversion. It is commonly used for impedance matching and buffering between circuit stages.
 
-- **Gain:**  Av = -gm*Rd/(1 + gm*Rs)  
-- Improved linearity and bias stability due to negative feedback  
-- Lower gain compared to a basic common-source stage without degeneration  
+- **Gain:** \( A_v \approx \dfrac{g_m R_L}{1 + g_m R_L} \)  
+- High input impedance and low output impedance  
+- No phase inversion (0° phase shift)  
+- Voltage gain slightly less than 1  
 
-This directory contains the design and LTspice simulation of an NMOS common-source amplifier with source degeneration. The implementation is limited to NMOS devices to keep the scope focused and practical.
+This directory contains the design and LTspice simulation of an NMOS source follower (common-drain) amplifier. The implementation focuses on simplicity and practical biasing using discrete components.
 
-[Open report (PDF)](CS_amplifier_with_source_degeneration.pdf)
+[Open report (PDF)](source_follower.pdf)
+
 
